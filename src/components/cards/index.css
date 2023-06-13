@@ -1,0 +1,13 @@
+.Cards {
+  cursor: pointer;
+  background-color: #444;
+  color: white;
+  width: 200px;
+  height: 200px;
+  padding: 12px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
