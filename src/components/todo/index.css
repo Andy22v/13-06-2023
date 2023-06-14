@@ -1,0 +1,7 @@
+.card-list {
+  margin-top: 20px;
+  width: 60%;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}

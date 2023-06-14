@@ -1,6 +1,7 @@
 .Cards {
   cursor: pointer;
   background-color: #444;
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.9);
   color: white;
   width: 200px;
   height: 200px;
@@ -10,4 +11,12 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+}
+
+.true {
+  background-color: lightgreen;
+}
+
+.false {
+  background-color: lightcoral;
 }
